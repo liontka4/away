@@ -97,7 +97,6 @@ obj {
 	end;		
 }:attr 'enterable,container,open';
 
-
 obj {
 	-"конус|шашка";
 	nam = 'con';
